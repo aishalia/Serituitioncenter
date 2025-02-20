@@ -1,6 +1,7 @@
 # seri_tuition_app
 
-A new Flutter project.
+A new Flutter project. 
+This project is to store User Management Info for students and Teachers
 
 ## Getting Started
 
